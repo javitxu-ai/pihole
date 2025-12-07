@@ -1,0 +1,2 @@
+# pihole
+pihole block domains
